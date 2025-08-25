@@ -1,0 +1,19 @@
+Date,Student Name,Status,Confidence,Timestamp
+
+
+2025-08-25,vedant,Present,High (0.63),2025-08-25 16:20:38
+2025-08-25,palak,Present,High (0.63),2025-08-25 16:20:38
+2025-08-25,sagar,Present,High (0.63),2025-08-25 16:20:38
+2025-08-25,Unknown Person 1,Unknown,Low,2025-08-25 16:20:38
+2025-08-25,Unknown Person 4,Unknown,Low,2025-08-25 16:20:38
+2025-08-25,Unknown Person 5,Unknown,Low,2025-08-25 16:20:38
+2025-08-25,Unknown Person 6,Unknown,Low,2025-08-25 16:20:38
+2025-08-25,Unknown Person 8,Unknown,Low,2025-08-25 16:20:38
+2025-08-25,Unknown Person 9,Unknown,Low,2025-08-25 16:20:38
+2025-08-25,Unknown Person 10,Unknown,Low,2025-08-25 16:20:38
+2025-08-25,palak,Absent,N/A,2025-08-25 16:30:45
+2025-08-25,sagar,Absent,N/A,2025-08-25 16:30:45
+2025-08-25,vedant,Absent,N/A,2025-08-25 16:30:45
+2025-08-25,Unknown Person 1,Unknown,Low,2025-08-25 16:30:45
+2025-08-25,Unknown Person 2,Unknown,Low,2025-08-25 16:30:45
+2025-08-25,vedant,Unknown,Low (0.50),2025-08-25 16:30:45
